@@ -28,5 +28,6 @@ public class MapUtilsTest {
 			e.printStackTrace();
 		}
 		assertTrue(list.get(0).equals("hello")&&list.get(1).equals("world"));
+		
 	}
 }
